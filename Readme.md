@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Дмитрий Пан](https://up.htmlacademy.ru/adaptive/12/user/221424).
-* Наставник: `Неизвестно`.
+* Наставник: Мурат Баркинхоев.
 
 ---
 
